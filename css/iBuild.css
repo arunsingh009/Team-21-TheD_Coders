@@ -1,0 +1,96 @@
+.bcard1{
+    height: 300px;
+    width: 250px;
+    margin:0px 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    box-shadow: 2px 2px 10px 5px rgb(148, 150, 148);
+    border-radius: 20px;
+    background-color: #fff;
+
+}
+.bca{
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bca img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    /* border: 2px solid black; */
+}
+.bca1,.bca2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin:2px 0px;
+}
+
+.bca2 a{
+    width: 120px;
+    height: 35px;
+    text-decoration: none;
+    color: white;
+    background-color: #28a745;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px; 
+    transition: 0.3s ease-in-out;   
+}
+.bca2 a:hover{
+    background-color: #208a39;
+    transform: scale(0.9);
+    cursor: pointer;
+}
+.forum{
+    height: 60vh;
+    width: 100%;
+    background-color: rgba(127, 255, 212, 0.329);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.fimg{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+
+}
+.forumImg{
+    width: 45%;
+    height: 40vh;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.forumImg img{
+    height: 300px;
+    width: 70%;
+    border-radius:100% ;
+}
+.cmnsoon{
+    height: 40vh;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.ch1{
+    height:10vh
+}
+.ch2{
+    height: 30vh;
+    width: 90%;
+}
