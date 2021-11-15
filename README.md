@@ -17,7 +17,7 @@ SrNo | Name | Year | Department| Section | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Arun Kumar Singh | 3rd |  Information Technology | A | arunsingh641997@gmail.com
 2 | Kartik Sharma | 3rd | Information Technology | A | krtksharma7@gmail.com
-3 | Km.Anjali Singh | 3rd |  Information Technology | A | singh07anjali24@gmail.com
+3 | Anjali Singh | 3rd |  Information Technology | A | singh07anjali24@gmail.com
 4 | Mobasshir Imam| 3rd |  Information Technology | A | mobasshirimam321456@gmail.com
 
 <br>
